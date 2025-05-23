@@ -67,3 +67,21 @@ docker run -d --name web3 `
 **Potwierdzenia działania strony**
 
 ![Image](https://github.com/user-attachments/assets/90b91b39-e6e4-4e24-90e3-000c601bd06d)
+
+**Potwierdzenia działania wszystkich kontenerów**
+
+![Image](https://github.com/user-attachments/assets/9cf817b8-04dc-4387-bea0-f80eff0859fb)
+
+## Struktura projektu oraz pliki
+
+**Struktura projektu**
+
+![Image](https://github.com/user-attachments/assets/9c3bff06-c6bf-4ba6-93a7-fe9aff71e0be)
+
+**Access logi**
+
+![Image](https://github.com/user-attachments/assets/ffa7a4c3-ef7d-4009-a21f-23fef3635ce9)
+
+**Error logi**
+
+![Image](https://github.com/user-attachments/assets/8737053f-6e02-4322-8dfb-745f197e61a5)
